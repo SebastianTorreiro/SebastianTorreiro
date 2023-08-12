@@ -7,7 +7,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 🧐 &nbsp;Antes de estudiar programacion estudie quimica, soy tecnico quimico y estudie 2 años de ingenieria quimica. .\
-😎 &nbsp;Estudio programacion hace 1 año, estudie mediante Youtube, Platzi y Henry .\
+😎 &nbsp;Estudio programacion hace 2 años, estudie mediante Youtube, Platzi y Henry. Tambien realice simulaciones laborales en No Country. \
 🤖 &nbsp;Tengo preferencia por el desarrollo backend .\
 ✍️ &nbsp;Estoy interesado en la tecnologia Blockchain y la descentralización.\
 ✉️ &nbsp;Me pueden contactar en sebastiantorreiro@gmail.com, siempre estoy atento a responder.
