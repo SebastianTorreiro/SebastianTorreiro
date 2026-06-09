@@ -16,20 +16,17 @@ I bridge the gap between complex mathematical models and production-ready web in
 
 ## 🏗️ Featured Architecture
 
-### 1. 🌿 [Todo Verde CRM]([#])
-**Multi-tenant B2B SaaS** engineered to digitize operations for a green-spaces enterprise. 
-* *Stack:* Next.js 15, Supabase, PostgreSQL. 
-* *Highlight:* Designed from scratch to handle complex relational data and operational workflows in production.
+### 1. 🌿 [Todo Verde CRM](https://github.com/SebastianTorreiro/jardineria-crm)
+**Multi-tenant B2B SaaS** engineered to digitize operations, inventory, and finances for green-spaces maintenance enterprises.
+* *Stack:* Next.js 15, Supabase, PostgreSQL, Row Level Security (RLS).
 
-### 2. 🧠 [AI-Sidecar]([#])
-**Semantic Search Microservice** built to integrate vector embeddings into existing infrastructures.
-* *Stack:* Python, Qdrant, pgvector.
-* *Highlight:* Implements state-of-the-art vector databases to enable high-precision semantic matching and Retrieval-Augmented Generation (RAG).
+### 2. 🧠 [AI-Sidecar Engine](https://github.com/SebastianTorreiro/ai-sidecar-engine)
+**Asynchronous Semantic Search Microservice** built to enable high-precision vector embeddings and RAG pipelines.
+* *Stack:* Python, FastAPI, Qdrant, pgvector, SQLAlchemy.
 
-### 3. 🌊 [Wave]([(https://github.com/SebastianTorreiro/Wave)])
-**Scalable Dating Application Backend** built in an agile team environment.
-* *Stack:* Node.js, Express, Relational DBs.
-* *Highlight:* Focus on strict architectural best practices, clean code, and team-driven Git workflows.
+### 3. 🎴 [AI User Card Generator](https://github.com/SebastianTorreiro/ai-user-card)
+**Dynamic Resource Management Platform** implementing server-side image generation and structured data persistence.
+* *Stack:* Next.js (App Router), Server Actions, Supabase, Dynamic API Routing.
 
 ---
  
