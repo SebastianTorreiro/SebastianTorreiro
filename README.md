@@ -26,7 +26,7 @@ I bridge the gap between complex mathematical models and production-ready web in
 * *Stack:* Python, Qdrant, pgvector.
 * *Highlight:* Implements state-of-the-art vector databases to enable high-precision semantic matching and Retrieval-Augmented Generation (RAG).
 
-### 3. 🌊 [Wave]([#])
+### 3. 🌊 [Wave]([(https://github.com/SebastianTorreiro/Wave)])
 **Scalable Dating Application Backend** built in an agile team environment.
 * *Stack:* Node.js, Express, Relational DBs.
 * *Highlight:* Focus on strict architectural best practices, clean code, and team-driven Git workflows.
